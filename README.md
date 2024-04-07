@@ -10,5 +10,4 @@ OpensourcedPro/OpensourcedPro is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://hits.sh/github.com/OpensourcedPro/"><img alt="Hits" src="https://hits.sh/github.com/OpensourcedPro.svg"/></a>
-
+<a href="https://hits.sh/github.com/OpensourcedPro/"><img alt="Hits" src="https://hits.sh/github.com/OpensourcedPro.svg?view=today-total&label=24%20Hour%20Hits&color=0dfaee&labelColor=1eabfd&logo=opensourcehardware"/></a> <a href="https://hits.sh/github.com/OpensourcedPro/"><img alt="Hits" src="https://hits.sh/github.com/OpensourcedPro.svg?label=All%20Time%20Hits"/></a>
